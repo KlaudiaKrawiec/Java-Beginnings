@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dom
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dom\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=adres
+comment1.target=Dom(Adres)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dom\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=lokator
+comment3.target=void\ dodajLokatora(Lokator)
+numComments=4
